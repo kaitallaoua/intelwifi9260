@@ -8,14 +8,11 @@ Quick instructions:
 1. clone this repo:
 git clone https://github.com/kaitallaoua/intelwifi9260.git
 
-2. Cd into the directory
-cd intelwifi9260
+2. Cd into the directory: # cd intelwifi9260
 
-3. Make file executable
-chmod +x intelwifi9260
+3. Make file executable: # chmod +x intelwifi9260
 
-4. Run the file
-./intelwifi9260
+4. Run the file: # ./intelwifi9260
 
 The commands will run line by line. Eventually you will need to enter your sudo password if its not already persistent in the terminal.
 The last command will reboot your Jetson. Upon the reboot your jetson should have working wifi!
