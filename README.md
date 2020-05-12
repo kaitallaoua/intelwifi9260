@@ -5,7 +5,7 @@ Forum post:
 Video format of these instructions on my Youtube channel: https://www.youtube.com/channel/UCabWXnn7SCohfSRl3rWB6dg
 
 Quick instructions:
-1. clone this repo: **git clone https://github.com/kaitallaoua/intelwifi9260.git*
+1. clone this repo: **git clone https://github.com/kaitallaoua/intelwifi9260.git**
 
 2. Cd into the directory: **cd intelwifi9260**
 
